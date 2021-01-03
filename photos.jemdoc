@@ -1,0 +1,10 @@
+# jemdoc: menu{menu}{photos.html}
+# jemdoc:title{GIAN-MCRTS}
+~~~
+{}{raw}
+<p></p>
+<img class="resize" src="img/mcrts_logo.png" alt="GIAN-MCRTS">
+<hr style="border: 3px double gray;">
+~~~
+
+= {{Here are some <a href="https://www.flickr.com/gp/28450314@N03/5c6138">photos</a> from the course.}}

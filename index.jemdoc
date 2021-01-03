@@ -1,0 +1,18 @@
+# jemdoc: menu{menu}{index.html}
+
+~~~ 
+{}{img_left}{./image/sanjit.jpg}{sanjit_photo}{200px}{200px}{./index.html}
+*[./index.html {{<p style="font-size: 28px; margin-bottom: node; line-height: 0;"> Sanjit Kumar Roy </p>}}]*
+*Research Scholar*\n 
+*[https://www.iitg.ac.in/cse/ Department of Computer Science & Engineering]*\n
+*[https://www.iitg.ac.in/ Indian Institute of Technology Guwahati]*\n\n\n
+~~~
+
+
+== Overview
+I am a research scholar at the Department of Computer Science & Engineering, Indian Institute of Technology Guwahati. 
+
+#include{education.jemdoc}
+#include{research_interest.jemdoc}
+#include{technical_skill.jemdoc}
+#include{contact.jemdoc}

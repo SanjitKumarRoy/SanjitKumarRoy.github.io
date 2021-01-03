@@ -1,0 +1,24 @@
+# jemdoc: menu{menu}{publication.html}
+
+== Publications 
+
+=== Journal Papers
+
+1. *Sanjit Kumar Roy*, Rajesh Devaraj, Arnab Sarkar, Sayani Sinha and Kankana Maji. "Contention-aware optimal scheduling of real-time precedence-constrained task graphs on heterogeneous distributed systems." Elsevier Journal of Systems Architecture (JSA). Volume 105, May 2020, 101706.\n
+
+2. *Sanjit Kumar Roy*, Arnab Sarkar and Rahul Gangopadhyay. "Processor and Bus Co-scheduling Strategies for Real-time Tasks with Multiple Service-levels." Springer Journal of Scheduling (JOSH), (Second round major revision received).
+
+3. *Sanjit Kumar Roy*, Rajesh Devaraj and Arnab Sarkar. "SLAQA: Quality-level Aware Scheduling of Task Graphs on Heterogeneous Distributed Systems." ACM Transactions on Embedded Computing Systems (ACM TECS), (First round review response submitted).
+
+4. *Sanjit Kumar Roy*, Rajesh Devaraj and Arnab Sarkar. "Contention Cognizant Scheduling of Task Graphs on Shared Bus based Heterogeneous Platforms." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD), (First round review response submitted).
+
+5. *Sanjit Kumar Roy*, Rajesh Devaraj and Arnab Sarkar. "Energy-aware Co-scheduling of Multiple Task Graphs on Shared Bus based Heterogeneous Platforms." (Manuscript under preparation).
+
+
+=== Conference Papers
+
+1. *Sanjit Kumar Roy*, Rajesh Devaraj, Arnab Sarkar, Sayani Sinha and Kankana Maji. "Optimal scheduling of precedence-constrained task graphs on heterogeneous distributed systems with shared buses." IEEE 22nd International Symposium on Real-Time Distributed Computing (ISORC). Pages 185-192, 2019.
+
+2. *Sanjit Kumar Roy*, Rajesh Devaraj and Arnab Sarkar. "Optimal scheduling of PTGs with multiple service levels on heterogeneous distributed systems." American Control Conference (ACC). Pages 157-162, 2019.
+
+3. Jaydeep Howlader, *Sanjit Kumar Roy*, Ashis Kumar Mal. "Practical Receipt-Free Sealed-Bid Auction in the Coercive Environment". Information Security and Cryptology, 16th International Conference, Seoul, Korea, Nov 2013.
