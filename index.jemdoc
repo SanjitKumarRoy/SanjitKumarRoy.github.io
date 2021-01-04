@@ -8,11 +8,13 @@
 *[https://www.iitg.ac.in/ Indian Institute of Technology Guwahati]*\n\n\n
 ~~~
 
-
-== Overview
-I am a research scholar at the Department of Computer Science & Engineering, Indian Institute of Technology Guwahati. 
+I am a research scholar at the Dept. of CSE, IIT Guwahati, India.
+I am working on co-scheduling strategies for real-time tasks and messages under the supervision of [http://www.facweb.iitkgp.ac.in/~arnab/index.html Dr. Arnab Sarkar].
+I have presented my Ph.D. Synopsis Seminar on 4th December 2020, and presently I am writing my Ph.D. thesis.
+My thesis title is "New Approaches to Computation-Communication Co-scheduling in Real-time Cyber-Physical Systems." I am going to submit the thesis tentatively by mid of February 2021.
 
 #include{education.jemdoc}
 #include{research_interest.jemdoc}
 #include{technical_skill.jemdoc}
+#include{scholarships_and_awards.jemdoc}
 #include{contact.jemdoc}
