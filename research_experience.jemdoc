@@ -1,0 +1,15 @@
+# jemdoc: menu{menu}{research_experience.html}
+
+
+== Research
+
+=== Dept. of Computer Science of Engineering, IIT Guwahati (Jul. 2013 -Till Date)
+*Doctor of Philosophy* (Tentative Thesis submission by mid of February, 2021).\n
+*Thesis Title:* New Approaches to Computation-Communication Co-scheduling in Real-time Cyber-Physical Systems.\n
+*Supervisors:* [http://www.facweb.iitkgp.ac.in/~arnab/ Dr. Arnab Sarkar] & [https://www.iitg.ac.in/ckarfa/index.html Dr. Chandan Karfa] (Administrative Supervisor).\n
+
+The principal aim of my Ph.D. dissertation has been to investigate a few important theoretical and practical aspects of task-message co-scheduling strategies in safety-critical Cyber-Physical Systems (CPSs), keeping in view the challenges\/hurdles related to timing requirements, resource constraints, energy minimization, etc. The dissertation presents a few novel real-time optimal\/heuristic offline task-message co-scheduling strategies for safety-critical CPSs consisting of various types of task and execution platform scenarios. In particular, the major contributions of my work include:
+- Development of co-scheduling strategies for a set of independent periodic tasks executing on a bus-based homogeneous multiprocessor system, with the objective of maximizing system level Quality of Service (QoS).
+- Design and implementation of QoS adaptive scheduling mechanisms for real-time systems modeled as Precedence-constrained Task Graphs (PTGs), on fully-connected heterogeneous multiprocessor systems.
+- Development of optimal and heuristic co-scheduling strategies for PTGs executing on a shared-bus based heterogeneous distributed platform.
+- Design of an energy-aware processor-bus co-scheduling strategy for multiple independent PTGs executing on a bus based heterogeneous platform.

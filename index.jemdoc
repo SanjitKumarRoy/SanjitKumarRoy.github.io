@@ -15,6 +15,7 @@ My thesis title is "New Approaches to Computation-Communication Co-scheduling in
 
 #include{education.jemdoc}
 #include{research_interest.jemdoc}
+#include{teaching_interest.jemdoc}
 #include{technical_skill.jemdoc}
 #include{scholarships_and_awards.jemdoc}
 #include{contact.jemdoc}
