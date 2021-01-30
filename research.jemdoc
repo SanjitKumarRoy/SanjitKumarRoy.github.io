@@ -1,4 +1,4 @@
-# jemdoc: menu{menu}{research_experience.html}
+# jemdoc: menu{menu}{research.html}
 
 
 == Research
@@ -13,3 +13,10 @@ The principal aim of my Ph.D. dissertation has been to investigate a few importa
 - Design and implementation of QoS adaptive scheduling mechanisms for real-time systems modeled as Precedence-constrained Task Graphs (PTGs), on fully-connected heterogeneous multiprocessor systems.
 - Development of optimal and heuristic co-scheduling strategies for PTGs executing on a shared-bus based heterogeneous distributed platform.
 - Design of an energy-aware processor-bus co-scheduling strategy for multiple independent PTGs executing on a bus based heterogeneous platform.
+
+
+== Future Research Work
+
+The static resource allocation strategies developed as part of the Ph.D. work are based on wort-case resource usage estimates of applications. These schemes may be prone to significant performance degradations when actual resource usage of the applications are significantly less than their worst-case estimates.\n 
+
+Research in the last few years has revealed that the mapping and scheduling mechanisms in these scenarios may need to be both static and dynamic. The static part first provides a cost-optimal constraint-driven scheduling, allocation and assignment of various functional components of all the available resources; this step should not be intended to generate a single solution, but to generate an execution plan consisting of a set of optional solutions which the dynamic part can use to take decisions according to different run-time conditions. The dynamic part should be fast and must efficiently do a combined architecture load and power-aware run-time scheduling according to the execution plan provided by the static part, such that real-time constraints are met. However, determination of the exact offline-online strategies to be employed for specific system scenarios at hand is non-trivial and demands considerable research.
