@@ -1,14 +1,13 @@
 # jemdoc: menu{menu}{teaching_interest.html}
 
 == Teaching Interest
-- Algorithms
-- Automata Theory
-- Compilers
-- Computer Architecture & Organization
-- Computer Networks
-- Data Structures
-- Database Management Systems
 - Digital Electronics
-- Introduction to Computing
-- Networking
+- Data Structures
+- Algorithms
+#- Compilers
+#- Computer Networks
+- Computer Organization & Architecture
 - Operating Systems
+- Database Management Systems
+#- Introduction to Computing
+- Automata Theory

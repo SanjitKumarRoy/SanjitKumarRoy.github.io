@@ -4,8 +4,8 @@
 == Research
 
 === Dept. of Computer Science of Engineering, IIT Guwahati (Jul. 2013 -Till Date)
-*Doctor of Philosophy* (Tentative Thesis submission by mid of February, 2021).\n
-*Thesis Title:* New Approaches to Computation-Communication Co-scheduling in Real-time Cyber-Physical Systems.\n
+*Doctor of Philosophy* (Thesis submitted on 9th August 2021).\n
+*Thesis Title:* Task and Message Co-scheduling Strategies in Real-time Cyber-Physical Systems.\n
 *Supervisors:* [http://www.facweb.iitkgp.ac.in/~arnab/ Dr. Arnab Sarkar] & [https://www.iitg.ac.in/ckarfa/index.html Dr. Chandan Karfa] (Administrative Supervisor).\n
 
 The principal aim of my Ph.D. dissertation has been to investigate a few important theoretical and practical aspects of task-message co-scheduling strategies in safety-critical Cyber-Physical Systems (CPSs), keeping in view the challenges\/hurdles related to timing requirements, resource constraints, energy minimization, etc. The dissertation presents a few novel real-time optimal\/heuristic offline task-message co-scheduling strategies for safety-critical CPSs consisting of various types of task and execution platform scenarios. In particular, the major contributions of my work include:

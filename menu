@@ -1,10 +1,17 @@
-Home                [index.html]
-Research 			[research.html]
-Publications		[publication.html]
-Teaching Experience	[teaching_experience.html]
+Menu
+Home                	[index.html]
+
+Research
+Publications			[publication.html]
 Professional Activities [professional_activities.html]
-Ph.D. Synopsis Report	[Doc/synopsis_report_sanjit_kumar_roy.pdf]
-M.Tech Thesis		[Doc/mtech_thesis_sanjit_kumar_roy.pdf]
-CV					[Doc/cv_sanjit_kumar_roy.pdf]
-References			[references.html]
-Contact				[contact.html]
+
+Teaching
+Courses					[teaching_experience.html]
+
+Others
+Scholarships & Awards	[scholarships_and_awards.html]
+Ph.D. Thesis			[Doc/Sanjit_Kumar_Roy_136101002_PhD_Thesis.pdf]
+M.Tech Thesis			[Doc/Sanjit_Kumar_Roy_11_IT_415_MTech_Thesis.pdf]
+CV						[Doc/Sanjit_Kumar_Roy_CV.pdf]
+References				[references.html]
+Contact					[contact.html]
