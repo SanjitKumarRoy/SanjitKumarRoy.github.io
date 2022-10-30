@@ -4,14 +4,22 @@
 
 === Journal Papers
 
-. *Sanjit Kumar Roy*, Rajesh Devaraj, Arnab Sarkar, Sayani Sinha and Kankana Maji. "Contention-aware optimal scheduling of real-time precedence-constrained task graphs on heterogeneous distributed systems." Elsevier Journal of Systems Architecture (JSA), Volume 105, May 2020, 101706.\n\n
-. *Sanjit Kumar Roy*, Rajesh Devaraj and Arnab Sarkar. "Contention Cognizant Scheduling of Task Graphs on Shared Bus based Heterogeneous Platforms." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD), Volume 41, Pages 281 - 293, 2021.\n\n
-. *Sanjit Kumar Roy*, Rajesh Devaraj, Arnab Sarkar and Debabrata Senapati. "SLAQA: Quality-level Aware Scheduling of Task Graphs on Heterogeneous Distributed Systems." ACM Transactions on Embedded Computing Systems (ACM TECS), Volume 20, Pages 1 - 31, 2021.\n\n
-. *Sanjit Kumar Roy*, Rajesh Devaraj and Arnab Sarkar. "SAFLA: Scheduling Multiple Real-time Periodic Task Graphs on Heterogeneous Systems." IEEE Transactions on Computers (IEEE TC), (Accepted).\n\n
+. *Sanjit Kumar Roy*, Rajesh Devaraj and Arnab Sarkar. "SAFLA: Scheduling Multiple Real-time Periodic Task Graphs on Heterogeneous Systems." IEEE Transactions on Computers (IEEE TC), 2022.\n
+[https://doi.org/10.1109/TC.2022.3191970 \[DOI\]]\n\n
+. *Sanjit Kumar Roy*, Rajesh Devaraj, Arnab Sarkar and Debabrata Senapati. "SLAQA: Quality-level Aware Scheduling of Task Graphs on Heterogeneous Distributed Systems." ACM Transactions on Embedded Computing Systems (ACM TECS), Volume 20, Pages 1 - 31, 2021.\n
+[https://doi.org/10.1145/3462776 \[DOI\]]\n\n
+. *Sanjit Kumar Roy*, Rajesh Devaraj and Arnab Sarkar. "Contention Cognizant Scheduling of Task Graphs on Shared Bus based Heterogeneous Platforms." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD), Volume 41, Pages 281 - 293, 2021.\n
+[https://doi.org/10.1109/TCAD.2021.3059569 \[DOI\]]\n\n
+. *Sanjit Kumar Roy*, Rajesh Devaraj, Arnab Sarkar, Sayani Sinha and Kankana Maji. "Contention-aware optimal scheduling of real-time precedence-constrained task graphs on heterogeneous distributed systems." Elsevier Journal of Systems Architecture (JSA), Volume 105, May 2020, 101706.\n
+[https://doi.org/10.1016/j.sysarc.2019.101706 \[DOI\]]\n\n
 
 === Conference Papers
 
-. *Sanjit Kumar Roy*, Rajesh Devaraj, Arnab Sarkar, Sayani Sinha and Kankana Maji. "Optimal scheduling of precedence-constrained task graphs on heterogeneous distributed systems with shared buses." IEEE 22nd International Symposium on Real-Time Distributed Computing (ISORC), Pages 185 - 192, 2019.\n\n
-. *Sanjit Kumar Roy*, Rajesh Devaraj and Arnab Sarkar. "Optimal scheduling of PTGs with multiple service levels on heterogeneous distributed systems." American Control Conference (ACC), Pages 157 - 162, 2019.\n\n
-. Jaydeep Howlader, *Sanjit Kumar Roy*, Ashis Kumar Mal. "Practical Receipt-Free Sealed-Bid Auction in the Coercive Environment". 16th International Conference on Information Security and Cryptology (ICISC), Pages 418 - 434, 2013.\n\n
-. *Sanjit Kumar Roy*, Arnab Sarkar and Rahul Gangopadhyay. "Processor and Bus Co-scheduling Strategies for Real-time Tasks with Multiple Service-levels." IEEE 27th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), Pages 21 - 30, 2021.\n\n
+. *Sanjit Kumar Roy*, Arnab Sarkar and Rahul Gangopadhyay. "Processor and Bus Co-scheduling Strategies for Real-time Tasks with Multiple Service-levels." IEEE 27th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), Pages 21 - 30, 2021.\n
+[https://doi.org/10.1109/RTCSA52859.2021.00010 \[DOI\]]\n\n
+. *Sanjit Kumar Roy*, Rajesh Devaraj, Arnab Sarkar, Sayani Sinha and Kankana Maji. "Optimal scheduling of precedence-constrained task graphs on heterogeneous distributed systems with shared buses." IEEE 22nd International Symposium on Real-Time Distributed Computing (ISORC), Pages 185 - 192, 2019.\n
+[https://doi.org/10.1109/ISORC.2019.00042 \[DOI\]]\n\n
+. *Sanjit Kumar Roy*, Rajesh Devaraj and Arnab Sarkar. "Optimal scheduling of PTGs with multiple service levels on heterogeneous distributed systems." American Control Conference (ACC), Pages 157 - 162, 2019.\n
+[https://doi.org/10.23919/ACC.2019.8815148 \[DOI\]]\n\n
+. Jaydeep Howlader, *Sanjit Kumar Roy*, Ashis Kumar Mal. "Practical Receipt-Free Sealed-Bid Auction in the Coercive Environment". 16th International Conference on Information Security and Cryptology (ICISC), Pages 418 - 434, 2013.\n
+[https://doi.org/10.1007/978-3-319-12160-4_25 \[DOI\]]\n\n
