@@ -6,7 +6,7 @@
 #*[./index.html {{<p style="font-size: 28px; margin-bottom: node; line-height: 0;"> Sanjit Kumar Roy </p>}}]*
 *Assistant Professor*\n 
 *[https://srmap.edu.in/seas/computer-science-engineering/ Department of Computer Science and Engineering]*\n
-*[https://srmap.edu.in/ SRM AP University]*\n
+*[https://srmap.edu.in/ SRM University AP]*\n
 *Amaravati, Andhra Pradesh - 522502, India*
 
 == Research Interests
@@ -30,9 +30,9 @@
 {{
 <div class="row">
     <a href="https://scholar.google.co.in/citations?user=UAg1giEAAAAJ&hl=en&oi=sra"><img src="./logo/google_scholar_logo.png" alt="Google Scholar" style="width:9%">
-    <a href="https://www.linkedin.com/in/sanjit-kumar-roy"><img src="./logo/linkedin_logo.png" alt="LinkedIn" style="width:8%">
-    <a href="https://orcid.org/my-orcid?orcid=0000-0002-6498-1077"><img src="./logo/orchid_logo.png" alt="Orcid" style="width:9%">
-    <a href="https://dblp.org/pid/56/9147.html"><img src="./logo/dblp_logo.png" alt="DBLP" style="width:10%">
+    <a href="https://www.linkedin.com/in/sanjit-kumar-roy"><img src="./logo/linkedin_logo.png" alt="LinkedIn" style="width:8%"></a>
+    <a href="https://orcid.org/my-orcid?orcid=0000-0002-6498-1077"><img src="./logo/orchid_logo.png" alt="Orcid" style="width:9%"></a>
+    <a href="https://dblp.org/pid/56/9147.html"><img src="./logo/dblp_logo.png" alt="DBLP" style="width:10%;"></a>
 </div> 
 }}
 
