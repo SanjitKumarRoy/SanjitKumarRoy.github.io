@@ -4,10 +4,17 @@
 ~~~ 
 {}{img_left}{./image/sanjit_2.jpg}{sanjit_photo}{330px}{330px}{./index.html}
 #*[./index.html {{<p style="font-size: 28px; margin-bottom: node; line-height: 0;"> Sanjit Kumar Roy </p>}}]*
-*Assistant Professor*\n 
-*[https://srmap.edu.in/seas/computer-science-engineering/ Department of Computer Science and Engineering]*\n
-*[https://srmap.edu.in/ SRM University AP]*\n
-*Amaravati, Andhra Pradesh - 522502, India*
+*Postdoc*\n 
+*[https://www.it.uu.se/ Department of Information Technology]*\n
+*[https://www.uu.se/ Uppsala University], Sweden*\n
+#*Visiting Address:* hus 10, Lägerhyddsvägen 1\n
+#*Postal Address:* Box 337\n
+#751 05 Uppsala, Sweden\n
+
+#*Assistant Professor*\n 
+#*[https://srmap.edu.in/seas/computer-science-engineering/ Department of Computer Science and Engineering]*\n
+#*[https://srmap.edu.in/ SRM University AP]*\n
+#*Amaravati, Andhra Pradesh - 522502, India*
 
 == Research Interests
 - Real-time Systems
@@ -15,7 +22,8 @@
 - Scheduling
 
 == Contact
-*Phone:* +91-9085857506\n
+#*Phone:* +91 9085857506\n
+*Phone:* +46 76 970 7190\n
 *Email:* sanjit.it@gmail.com\n
 ~~~
 
