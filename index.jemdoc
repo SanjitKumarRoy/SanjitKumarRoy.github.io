@@ -37,13 +37,23 @@
 
 {{
 <div class="row">
-    <a href="https://scholar.google.co.in/citations?user=UAg1giEAAAAJ&hl=en&oi=sra"><img src="./logo/google_scholar_logo.png" alt="Google Scholar" style="width:9%">
-    <a href="https://www.linkedin.com/in/sanjit-kumar-roy"><img src="./logo/linkedin_logo.png" alt="LinkedIn" style="width:8%"></a>
-    <a href="https://orcid.org/my-orcid?orcid=0000-0002-6498-1077"><img src="./logo/orchid_logo.png" alt="Orcid" style="width:9%"></a>
-    <a href="https://dblp.org/pid/56/9147.html"><img src="./logo/dblp_logo.png" alt="DBLP" style="width:10%;"></a>
-</div> 
+    <a href="https://www.linkedin.com/in/sanjit-kumar-roy" target="_blank">
+        <img src="./logo/linkedin_logo.png" alt="LinkedIn" style="width:7%; margin-right:15px;">
+    </a>
+    <a href="https://github.com/SanjitKumarRoy" target="_blank">
+        <img src="./logo/github_logo.png" alt="Github" style="width:6%; margin-right:15px;">
+    </a>
+    <a href="https://scholar.google.co.in/citations?user=UAg1giEAAAAJ&hl=en&oi=sra" target="_blank">
+        <img src="./logo/google_scholar_logo.png" alt="Google Scholar" style="width:7%; margin-right:15px;">
+    </a>
+    <a href="https://orcid.org/my-orcid?orcid=0000-0002-6498-1077" target="_blank">
+        <img src="./logo/orchid_logo.png" alt="Orcid" style="width:5%; margin-right:15px;">
+    </a>
+    <a href="https://dblp.org/pid/56/9147.html" target="_blank">
+        <img src="./logo/dblp_logo.png" alt="DBLP" style="width:7%;">
+    </a>
+</div>
 }}
-
 
 #I am a Ph.D. research scholar at the [https://www.iitg.ac.in/cse/ Dept. of CSE], [https://www.iitg.ac.in/ IIT Guwahati], India.
 #I am working on Real-Time Scheduling under the supervision of [http://www.facweb.iitkgp.ac.in/~arnab/index.html Prof. Arnab Sarkar].

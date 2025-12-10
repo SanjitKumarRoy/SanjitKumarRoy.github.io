@@ -140,6 +140,7 @@ def standardconf():
   
   [defaultcss]
   <link rel="stylesheet" href="jemdoc.css" type="text/css" />
+  <script src="jemdoc.js"></script>
   
   [windowtitle]
   # used in header for window title.
